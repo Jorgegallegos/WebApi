@@ -1,0 +1,5 @@
+C:\Proyectos_Locales_Csharp\MajeBug\MajeBug.Domain\bin\Debug\MajeBug.Domain.dll
+C:\Proyectos_Locales_Csharp\MajeBug\MajeBug.Domain\bin\Debug\MajeBug.Domain.pdb
+C:\Proyectos_Locales_Csharp\MajeBug\MajeBug.Domain\obj\Debug\MajeBug.Domain.dll
+C:\Proyectos_Locales_Csharp\MajeBug\MajeBug.Domain\obj\Debug\MajeBug.Domain.pdb
+C:\Proyectos_Locales_Csharp\MajeBug\MajeBug.Domain\obj\Debug\MajeBug.Domain.csprojResolveAssemblyReference.cache

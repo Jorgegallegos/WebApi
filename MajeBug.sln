@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MajeBug.Domain", "MajeBug.Domain\MajeBug.Domain.csproj", "{93826EAA-7937-430F-A48D-BF72C7C9728F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MajeBud.Data", "MajeBud.Data\MajeBud.Data.csproj", "{592BAA18-9245-4D84-A9FD-5A8B85F16DF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MajeBug.WebApi", "MajeBug.WebApi\MajeBug.WebApi.csproj", "{C6923923-71CB-4C95-84C4-8FF06C1227EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93826EAA-7937-430F-A48D-BF72C7C9728F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93826EAA-7937-430F-A48D-BF72C7C9728F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93826EAA-7937-430F-A48D-BF72C7C9728F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93826EAA-7937-430F-A48D-BF72C7C9728F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{592BAA18-9245-4D84-A9FD-5A8B85F16DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592BAA18-9245-4D84-A9FD-5A8B85F16DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592BAA18-9245-4D84-A9FD-5A8B85F16DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592BAA18-9245-4D84-A9FD-5A8B85F16DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6923923-71CB-4C95-84C4-8FF06C1227EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6923923-71CB-4C95-84C4-8FF06C1227EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6923923-71CB-4C95-84C4-8FF06C1227EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6923923-71CB-4C95-84C4-8FF06C1227EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
